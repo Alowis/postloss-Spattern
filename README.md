@@ -1,11 +1,11 @@
-# postloss-Spattern: A data mining based tool for mapping spatial patterns of tree cover loss
+# postloss-Spattern: A data mining based tool for mapping spatial patterns of tree cover loss and POS
 
 Data mining based tool for mapping spatial patterns of tree cover loss according to Terra-i and Global Forest Change (GFC) datasets .
 
 If you use this repository consider citing:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551089.svg)](https://doi.org/10.5281/zenodo.3551089)
 
-The tool can be executed using the demo data (inside the repository folder).
+The tool can be executed using the demo data (inside the repository folder). 
 
 ## Documentation
 A detailed step by step guide is under preparation. Meanwhile, theory and hands-on slides are provided inside the repository folder.
